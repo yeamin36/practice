@@ -4,6 +4,7 @@ import 'package:currency_converter/Home.dart';
 import 'package:currency_converter/loading.dart';
 import 'package:currency_converter/theme.dart';
 
+//ki je kormu bhaiiii
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(
