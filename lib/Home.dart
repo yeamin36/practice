@@ -2,6 +2,7 @@ import 'package:currency_converter/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+//hachi hochche
 class Home extends StatefulWidget {
   const Home({super.key});
   @override
